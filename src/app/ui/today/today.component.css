@@ -1,0 +1,12 @@
+h2 {
+  padding: 25px;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.example-card {
+  max-width: 100%;
+  margin-bottom: 8px;
+  text-align: center;
+  padding-bottom: 25px;
+}
